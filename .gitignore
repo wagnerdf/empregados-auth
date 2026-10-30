@@ -1,0 +1,7 @@
+# Configurações do Eclipse / STS4
+.classpath
+.project
+.settings/
+
+# Arquivos gerados pelo Maven
+target/
